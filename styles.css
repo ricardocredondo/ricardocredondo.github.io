@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #222;
+  color: #387ef5;
+}
+.titulo {
+  text-align: center;
+}
+.parrafo {
+  margin-top: 50px;
+}
